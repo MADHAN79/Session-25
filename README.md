@@ -1,6 +1,6 @@
-# Session-25
+### Session-25
 
-### React TO-DO app task
+# React TO-DO app task
 
 I've applied my newly learnt background animation skill to give a complete fresh look for the TO-DO app.
 
