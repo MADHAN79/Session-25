@@ -11,7 +11,7 @@ Why not daily task completion should be FUN ! RIGHT ?
 I hope you like my background animation :)
 
 
-### Instructions while using the website:
+### How to use the website properly:
 
 1. If you type the task words with spaces it will neatly aligned & stay inside the div.
 2. If you type the task words without spaces unnecessarily eg:50+ letters without spaces, the text exceeding
