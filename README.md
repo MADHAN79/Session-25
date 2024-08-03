@@ -1,11 +1,8 @@
-### Session-25
+# React + Vite
 
-# React TO-DO app task
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-I've applied my newly learnt background animation skill to give a complete fresh look for the TO-DO app.
+Currently, two official plugins are available:
 
-It definitely standsout from the rest of the TO-DO APPS with boring UI.
-
-Why not daily task completion should be FUN ! RIGHT ?
-
-I hope you like my background animation :)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
